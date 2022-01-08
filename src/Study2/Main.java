@@ -2,6 +2,9 @@ package Study2;
 
 import java.util.Scanner;
 
+/**
+ * 메인
+ */
 public class Main {
 
 	public static void main(String[] args) {
